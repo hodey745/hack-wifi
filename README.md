@@ -1,8 +1,8 @@
 # hack-wifi
 
-Dark fb v1.9
+ H4CK W1F1
 
-Author : Mr.Zck18
+Author : ./cok18
 
 Thanks to member : X-Core
 
